@@ -1,0 +1,16 @@
+export const animals = [
+  { id: 1, name: 'Bolinha', type: 'Cão', breed: 'Labrador', apiBreed: 'labrador', age: '2 anos', sex: 'Macho', size: 'Grande', location: 'Lisboa', description: 'O Bolinha é brincalhão, adora correr na praia e dá-se bem com crianças. Já está vacinado e esterilizado.' },
+  { id: 2, name: 'Luna', type: 'Cão', breed: 'Husky', apiBreed: 'husky', age: '3 anos', sex: 'Fêmea', size: 'Grande', location: 'Porto', description: 'A Luna é cheia de energia e precisa de uma família ativa que goste de longos passeios.' },
+  { id: 3, name: 'Snoopy', type: 'Cão', breed: 'Beagle', apiBreed: 'beagle', age: '1 ano', sex: 'Macho', size: 'Médio', location: 'Torres Vedras', description: 'O Snoopy é curioso e muito meigo. Adora farejar tudo e aprende truques com facilidade.' },
+  { id: 4, name: 'Pipoca', type: 'Cão', breed: 'Pug', apiBreed: 'pug', age: '4 anos', sex: 'Fêmea', size: 'Pequeno', location: 'Coimbra', description: 'A Pipoca é calma e adora sestas no sofá. Ideal para apartamento.' },
+  { id: 5, name: 'Max', type: 'Cão', breed: 'Pastor Alemão', apiBreed: 'germanshepherd', age: '5 anos', sex: 'Macho', size: 'Grande', location: 'Leiria', description: 'O Max é leal, protetor e muito inteligente. Precisa de espaço e de um dono experiente.' },
+  { id: 6, name: 'Salsicha', type: 'Cão', breed: 'Teckel', apiBreed: 'dachshund', age: '6 anos', sex: 'Macho', size: 'Pequeno', location: 'Faro', description: 'O Salsicha é divertido e teimoso q.b. Dá-se bem com outros cães.' },
+  { id: 7, name: 'Mel', type: 'Cão', breed: 'Golden Retriever', apiBreed: 'retriever/golden', age: '8 meses', sex: 'Fêmea', size: 'Grande', location: 'Lisboa', description: 'A Mel é uma cachorra doce e sociável, perfeita para famílias com crianças.' },
+  { id: 8, name: 'Rocky', type: 'Cão', breed: 'Boxer', apiBreed: 'boxer', age: '3 anos', sex: 'Macho', size: 'Grande', location: 'Braga', description: 'O Rocky é enérgico e muito afetuoso. Adora brincar com bolas.' },
+  { id: 9, name: 'Mia', type: 'Gato', breed: 'Siamês', apiBreed: 'siam', age: '2 anos', sex: 'Fêmea', size: 'Pequeno', location: 'Porto', description: 'A Mia é faladora e adora companhia. Segue os donos pela casa toda.' },
+  { id: 10, name: 'Tigre', type: 'Gato', breed: 'Bengal', apiBreed: 'beng', age: '1 ano', sex: 'Macho', size: 'Médio', location: 'Lisboa', description: 'O Tigre é ativo e brincalhão. Precisa de brinquedos e arranhadores.' },
+  { id: 11, name: 'Nuvem', type: 'Gato', breed: 'Persa', apiBreed: 'pers', age: '5 anos', sex: 'Fêmea', size: 'Médio', location: 'Coimbra', description: 'A Nuvem é tranquila e adora mimos. Precisa de escovagem regular.' },
+  { id: 12, name: 'Leão', type: 'Gato', breed: 'Maine Coon', apiBreed: 'mcoo', age: '4 anos', sex: 'Macho', size: 'Grande', location: 'Torres Vedras', description: 'O Leão é um gigante gentil, sociável com cães e crianças.' },
+  { id: 13, name: 'Pantufa', type: 'Gato', breed: 'Ragdoll', apiBreed: 'ragd', age: '3 anos', sex: 'Fêmea', size: 'Médio', location: 'Braga', description: 'A Pantufa é extremamente dócil e relaxa ao colo de qualquer pessoa.' },
+  { id: 14, name: 'Faraó', type: 'Gato', breed: 'Sphynx', apiBreed: 'sphy', age: '2 anos', sex: 'Macho', size: 'Pequeno', location: 'Faro', description: 'O Faraó é carinhoso e procura sempre o sítio mais quentinho da casa.' },
+]
